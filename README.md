@@ -11,8 +11,8 @@ TODO:
 TelegramBot erstellen:
 https://telegram.me/botfather
 
-API Key unter BOS.px:37 eintragen
+API Key unter POCSAG.py:37 eintragen
 
-MySQL Zugangsdaten in BOS.py:41-45 eintragen
+MySQL Zugangsdaten in POCSASG.py:41-45 eintragen
 
-Frequenz, ppm und Decoder eintragen in BOS.py:34-36
+Frequenz, ppm und Decoder eintragen in POCSAG.py:34-36
